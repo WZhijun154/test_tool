@@ -1,0 +1,5 @@
+
+
+
+
+white = 0xFFFFFF
